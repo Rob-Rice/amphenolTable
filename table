@@ -1,0 +1,33 @@
+<div data-hs-responsive-table="true" style="overflow-x: auto; max-width: 100%; width: 98%; margin-left: auto; margin-right: auto;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed; border: 1px solid #99acc2; height: 1156px;">
+<tbody>
+<tr style="height: 47.7969px;">
+<td style="width: 50%; padding: 4px; height: 48px;">
+<h4 style="text-align: center;">Temperatures Above 45℃</h4>
+</td>
+<td style="width: 50%; padding: 4px; height: 48px;">
+<h4 style="text-align: center;">Temperatures Below 15℃</h4>
+</td>
+</tr>
+<tr style="height: 1107px;">
+<td style="width: 50%; padding: 4px; height: 1107px;">
+<p>Excessive heat damages lithium-ion batteries and extreme temperatures, such as those above 60℃, increase the risk to driver and passenger safety.&nbsp;</p>
+<p>Beyond 45℃, an EV battery’s cells can degrade quickly. This requires that the system be controlled by heat exchangers that can both extract heat from the cells and add heat when the system is too cold.</p>
+<p>What causes overheating in an EV battery?&nbsp;</p>
+<p>When cells are actively charging or discharging, they generate internal heat.&nbsp; Most of this heat moves through the metal current collectors and is extracted in the busbar via convection or through the cold plate under the cells through conduction from the cells to the cold plate to the coolant, which then leaves the pack to reject heat through external heat exchangers. Care must be taken when fast-charging, as the cells will generate heat as they are charging. The heat must be absorbed and drawn away from the cells very carefully, as the cells must not exceed their maximum temperature.&nbsp;&nbsp;</p>
+<p><strong>Sophisticated models in the battery management system determine the best strategy for controlling the heaters and coolant flow.</strong> Temperature sensors at the cells and throughout the cooling system are needed to provide real-time data for the model to operate properly.</p>
+<p>If cells are charged too quickly or overheat while the vehicle is in use, the system must take quick action to immediately reduce the temperature of the cells. If not, heat-induced battery cell degradation can start the process of thermal runaway.&nbsp;</p>
+<p>Regardless of the heating source, <span style="font-weight: bold;">temperature sensors within the EV battery thermal management system play an essential role in detecting excessive heat and engaging mitigating action.</span></p>
+</td>
+<td style="width: 50%; padding: 4px; height: 1107px;">
+<p>Thermal management systems aren’t only about keeping an EV battery cool.&nbsp;</p>
+<p>In cooler climates, the thermal management of electric vehicle battery systems induces heat to keep temperatures above the minimum. They heat the battery before use&nbsp; — whether to power the vehicle, accept power from recharging, or <a href="https://blog.amphenol-sensors.com/blog/electric-car-battery-packs-a-new-power-source" rel="noopener" target="_blank"><span>act as a power source</span></a>.&nbsp;</p>
+<p>At colder temperatures, the internal kinetics of the cell cause lower charge and discharge rates, reducing available battery power. Cold temperatures slow the chemical and physical reactions that make EV batteries work efficiently. Without intervention, this would increase impedance (resulting in longer charging times) and lower capacity (resulting in range reduction).</p>
+<p>Forcing too much charge into the cells when they are extremely cold can cause the lithium to form dendrites. These can pierce the separator between the anode and cathode, causing a short circuit inside the cell. Therefore, charge rates are controlled in extremely cold climates to carefully warm the battery, increasing the charge rate only when the battery is above a minimum operating temperature.</p>
+<p>Internal combustion engine (ICE) vehicles might appear to have an advantage when it comes to cold weather, generating substantial waste heat that keeps vehicles warm in cold temperatures. Without this waste heat, EVs must divert power from batteries to support heating and cooling.&nbsp;</p>
+<p>However, due to the highly efficient design of the heat pump systems on EV applications, along with heated/cooled seats and other technologies to put heating and cooling only when and where it is needed, they have proven themselves to be much better vehicles to get stuck in a snowstorm or summer traffic jam in than their ICE ancestors.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
